@@ -18,7 +18,7 @@
 * [CNIL: En quoi les collectivités territoriales sont-elles impactées par le GDPR](https://www.cnil.fr/en-quoi-les-collectivites-territoriales-sont-elles-impactees-par-le-reglement-europeen-sur-la)
 * [CNIL: Comprendre le règlement européen](https://www.cnil.fr/fr/comprendre-le-reglement-europeen)
 * [CNIL: Se préparer au règlement européen](https://www.cnil.fr/fr/se-preparer-au-reglement-europeen)
-* [CNIL: Cartographier vos traitements de données personnelles](https://www.cnil.fr/fr/cartographier-vos-traitements-de-donnees-personnelles]
+* [CNIL: Cartographier vos traitements de données personnelles](https://www.cnil.fr/fr/cartographier-vos-traitements-de-donnees-personnelles)
 
 
 
